@@ -73,7 +73,7 @@ This is how the data looks like.
 <h3>Final Project Diverging stacked bar charts</h3>
 <p>This Final Study Reganding Diverging stacked bar chart</p>
 
-[GroceyStoreAnalysis.xlsx](https://github.com/justinjabo250/Grocery-Store-Analysis-Project/files/11064485/GroceyStoreAnalysis.xlsx)
+[DiverdingStackedBarChartProject.xlsx](https://github.com/justinjabo250/Diverging-Sacked-Bar-Charts-Project/files/11067006/ProjectDiverdingStackedBarChart.xlsx)
 
 
 <br>
@@ -132,5 +132,3 @@ https://www.goskills.com/Excel/Resources/Advanced-Excel-charts
   
 </ul>
 
-
- 
