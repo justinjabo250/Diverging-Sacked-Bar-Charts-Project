@@ -1,13 +1,15 @@
 # Diverging-Sacked-Bar-Charts-Project
 
 Diverging stacked bar charts address some of the criticism of conventional stacked bar charts, which is that it is challenging to compare the values of the categories in the middle of the stack. They are excellent for displaying the spread of negative and positive values, such as Strongly Disagree to Strongly Agree (without a Neutral category).
-
+</br>
 
 These are the tools we will be utilizing: Excel, Bar Chart to complete all tasks that must be completed:
+</br>
 
 The Dataset has been provided.
+</br>
 
-Key skill that we shall use:
+**Key skill that we shall use:**
 
     . Basics of Working with Excel
     . Hypothesis Testing
@@ -17,42 +19,46 @@ Key skill that we shall use:
     . Creating more advanced visuals in Excel
 
 
-The following are the essential stages we followed to develop our final project.
+**The following are the essential stages we followed to develop our final project.**
 
 
 This is how the data looks like.
 
-Table  Description automatically generated
+![a1](https://user-images.githubusercontent.com/115732734/227653452-86ac556d-07a6-40ae-ab20-ec26464bf194.jpg)
 
 
 
 1. The black values are the actual data. The Buffer columns in red are calculated by adding the values on one side and subtracting it from 100%.
 2. Select all the data and create a 100% stacked bar chart.
-Chart, bar chart  Description automatically generated
+
+![a2](https://user-images.githubusercontent.com/115732734/227653459-07e53156-832f-4f06-93d8-53639fa5b5c2.jpg)
+
 
    3. You should see six (6) segments in the stacked bar. So right-click, choose Select Data, and click on Switch Row/Column.
+   
+![a3](https://user-images.githubusercontent.com/115732734/227653461-4da74889-5e13-4e94-b41f-c4690a9f3dee.jpg)
 
-Chart, bar chart  Description automatically generated
 
    4. Right-click on the buffer bars and make the fill color white.
 
-Chart, bar chart  Description automatically generated
-
+![a4](https://user-images.githubusercontent.com/115732734/227653463-1e6927a4-e064-4cdd-804d-d35e8c8c09f3.jpg)
 
 
   5. Delete the Legends.
 
   6. Adjust the axis values so the max stops at 70%. Right-click on the x-axis and format axis. Change the max bound value from 1.0 to 0.7.
 
-Chart, bar chart  Description automatically generated
+![a5](https://user-images.githubusercontent.com/115732734/227653465-5dcbafe4-d2eb-40b7-a7c8-c8bb4b0b5db2.jpg)
+
 
   7. Add the Data Labels and change the color. Delete both values on the axis.
 
   8. Add the Legend back at the top using a text box.
 
-  Go to Insert and click on Text Box.
-   Type the legend name and position it at the top of its color bar.
-Chart, bar chart  Description automatically generated
+     . Go to Insert and click on Text Box.
+     . Type the legend name and position it at the top of its color bar.
+     
+![a6](https://user-images.githubusercontent.com/115732734/227653466-5e4c0ef4-658f-488b-ae0a-e1c32be0c1c8.jpg)
 
   9. Give it a descriptive Chart Title as shown in the picture above.
   
@@ -64,8 +70,8 @@ Chart, bar chart  Description automatically generated
 
 [GroceryStoreAwesomeChocolateAnalysis.xlsx](https://github.com/justinjabo250/Grocery-Store-Analysis-Project/files/11063731/Grocery_Store_Awesome_Chocolate_Analysis.xlsx)
 
-<h3>Final Project Grocery Store Analysis</h3>
-<p>This Final Study and the recommendations we offer, after Examining and conducting a more thouroghly Analysis of Grocery Stores.</p>
+<h3>Final Project Diverging stacked bar charts</h3>
+<p>This Final Study Reganding Diverging stacked bar chart</p>
 
 [GroceyStoreAnalysis.xlsx](https://github.com/justinjabo250/Grocery-Store-Analysis-Project/files/11064485/GroceyStoreAnalysis.xlsx)
 
